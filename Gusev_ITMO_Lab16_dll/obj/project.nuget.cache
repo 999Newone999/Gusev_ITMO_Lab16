@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j69wMKnNV8O4CNW5Ao1kHTmI4/kr0GiPnThIkDftHS710g8sl3Jjjd+E5g6ny1VrlT02xq8o8ZnrMYImoOxJZQ==",
+  "success": true,
+  "projectFilePath": "V:\\ИТМО Автоматизация BIM проектирования\\Gusev_ITMO\\Gusev_ITMO_Lab16_dll\\Gusev_ITMO_Lab16_dll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Гусев Борис\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Гусев Борис\\.nuget\\packages\\system.text.encodings.web\\7.0.0-preview.1.22076.8\\system.text.encodings.web.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Гусев Борис\\.nuget\\packages\\system.text.json\\7.0.0-preview.1.22076.8\\system.text.json.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}
